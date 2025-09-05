@@ -12,7 +12,7 @@
 //        zoom effects, and dynamic content updates for a personalized and interactive user experience.
 // Import product images from a JSON file
 import productImages from '../json/productImages.js';
-
+ 
 // Wait until the DOM is fully loaded
 document.addEventListener("DOMContentLoaded", () => {
     // --- Navbar Functionality ---
