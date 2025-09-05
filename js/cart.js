@@ -14,7 +14,7 @@
 // -->  
 
 function renderCart() {
-    const cartItems = JSON.parse(localStorage.getItem('cartItems')) || [];
+    const cartItems = JSON.parse(localStorage.getItem('cartItems')) || []; 
     const cartContainer = document.getElementById('cart-container');
     
     cartContainer.innerHTML = cartItems.length > 0 
