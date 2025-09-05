@@ -20,7 +20,7 @@ function redirectToPersonalDetails() {
 // Redirect to Recommended Page 
 function redirectToRecommended() {
   // Retrieve the input values for username and password from the HTML form
-  const username = document.getElementById("username").value;
+  const username = document.getElementById("username").value; 
   const password = document.getElementById("password").value;
 
   // Check if both username and password are provided
