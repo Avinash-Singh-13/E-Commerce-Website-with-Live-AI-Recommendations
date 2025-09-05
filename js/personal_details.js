@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Get all navbar links
     const navbarLinks = document.querySelectorAll(".navbar a");
 
-    // Add click event listeners to each navbar link
+    // Add click event listeners to each navbar link 
     navbarLinks.forEach((link) => {
         link.addEventListener("click", (e) => {
             e.preventDefault(); // Prevent the default anchor behavior (page reload)
