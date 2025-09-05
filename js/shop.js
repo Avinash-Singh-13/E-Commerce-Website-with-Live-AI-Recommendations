@@ -7,7 +7,7 @@
 /* To use: Link this JavaScript file within the HTML to enable the dynamic interactivity
    for the shop. */
 
-// Sample data for each category
+// Sample data for each category 
 // Sample data for each category with product details (id, name, price, etc.) 
 const categories = {
   footwear: [
