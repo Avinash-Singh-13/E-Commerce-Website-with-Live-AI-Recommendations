@@ -11,7 +11,7 @@
 
 // To Run:
 //     Open the `cart.html` file in a modern web browser.
-// --> 
+// -->  
 
 function renderCart() {
     const cartItems = JSON.parse(localStorage.getItem('cartItems')) || [];
