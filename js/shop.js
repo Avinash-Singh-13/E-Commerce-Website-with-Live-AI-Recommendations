@@ -8,7 +8,7 @@
    for the shop. */
 
 // Sample data for each category
-// Sample data for each category with product details (id, name, price, etc.)
+// Sample data for each category with product details (id, name, price, etc.) 
 const categories = {
   footwear: [
     { id: 1, name: 'Bellies', image: '../assets/Shoes/10.png', price: 50, description: 'Comfortable running shoes', delivery: '31 Dec 2024'},
