@@ -13,7 +13,7 @@
 // Import product images from a JSON file
 import productImages from '../json/productImages.js';
  
-// Wait until the DOM is fully loaded
+// Wait until the DOM is fully loaded 
 document.addEventListener("DOMContentLoaded", () => {
     // --- Navbar Functionality ---
     // Select all navbar links
