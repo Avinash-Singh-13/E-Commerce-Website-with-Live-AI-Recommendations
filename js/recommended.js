@@ -15,7 +15,7 @@ import productImages from '../json/productImages.js';
  
 // Wait until the DOM is fully loaded 
 document.addEventListener("DOMContentLoaded", () => {
-    // --- Navbar Functionality ---
+    // --- Navbar Functionality --- 
     // Select all navbar links
     const navbarLinks = document.querySelectorAll(".navbar a");
 
